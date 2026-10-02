@@ -1,0 +1,40 @@
+# =====================================================================
+# Git Ignore - Keep Python Source Code Private
+# Only README.md and assets/ will be uploaded to GitHub
+# =====================================================================
+
+# Python source code
+*.py
+*.spec
+*.pyc
+__pycache__/
+
+# Configuration & local usage data
+config.json
+data_usage.json
+run_log.txt
+
+# Local setup and launch scripts
+install.bat
+install.ps1
+run.bat
+
+# Build and release binaries
+# (Distribute these via GitHub Releases tab instead of git commits)
+build/
+dist/
+*.rar
+*.zip
+*.7z
+
+# App icons in root (assets/icon.png is tracked for README)
+app_icon.ico
+app_icon.png
+dnetmeter_icon.ico
+dnetmeter_icon.png
+
+# IDE and temporary agent folders
+.agents/
+.vscode/
+.idea/
+scratch/
