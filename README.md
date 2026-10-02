@@ -25,7 +25,6 @@ Get the latest pre-compiled binaries directly from the **[GitHub Releases Tab](h
 | Edition | Description | Download Link |
 | :--- | :--- | :--- |
 | **🚀 Windows Setup Wizard** | Full installer with Start Menu shortcuts & uninstaller | [**Download DNet_Meter_Setup.exe**](https://github.com/MdDaudIbrahim/DNet-Meter/releases/latest) |
-| **💼 Standalone Portable** | Single `.exe` requiring zero installation. Run from anywhere! | [**Download DNetMeter.exe**](https://github.com/MdDaudIbrahim/DNet-Meter/releases/latest) |
 
 > [!TIP]
 > **No dependencies or Python required!** Both editions are self-contained Windows native executables that run out-of-the-box on Windows 10 and Windows 11.
