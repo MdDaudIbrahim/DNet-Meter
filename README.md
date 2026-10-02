@@ -59,10 +59,11 @@ Get the latest pre-compiled binaries directly from the **[GitHub Releases Tab](h
   <b>Minimalist, Non-Intrusive Taskbar Widget (Sits Beside System Tray)</b><br>
   <img src="assets/screenshot_taskbar_widget.png" alt="Taskbar Widget" />
 </p>
+<p align="center">
+  <b>Minimalist, Transparent Taskbar Widget (Sits Beside System Tray)</b><br>
+  <img src="https://github.com/user-attachments/assets/a7f4b0a8-a76d-4b0c-b4fe-44e881fbef8c" />
+</p>
 
----
-
-## ✨ Core Features
 
 ### 📌 1. Native Windows Taskbar Integration
 - **Docked Perfectly**: Sits right on your Windows taskbar next to the notification area (`^`) chevron icon.
